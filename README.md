@@ -45,7 +45,7 @@
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/jira.png" title="Jira" alt="Jira" width="90" height="40"/>&nbsp
-  <img src="ссылка на фото" title="Google Таблицы" alt="Google Таблицы" width="90" height="40"/>&nbsp
+  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/gg_tb.png" title="Google Таблицы" alt="Google Таблицы" width="90" height="40"/>&nbsp
 </div>
 
 ---
@@ -53,8 +53,8 @@
 ### ✏️Работа с системами управления тестированием TMS:
 
 <div>
-  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/testrail.png" alt="TestRail" title="TestRail" width="90" height="40"/>&nbsp
-  <img src="ссылка на фото" title="Test IT" alt="Test IT" width="90" height="40"/>&nbsp
+  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/testrail.png" alt="TestRail" title="TestRail" width="100" height="40"/>&nbsp
+  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/test%20it.png" title="Test IT" alt="Test IT" width="90" height="40"/>&nbsp
 </div>
 
 ---
@@ -71,7 +71,7 @@
 ### 💾 Работа с базами данных:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="90" height="40"/>&nbsp
+  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/mysql.png" title="MySQL" alt="MySQL" width="90" height="40"/>&nbsp
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/sql.png" title="SQL" alt="SQL" width="90" height="40"/>&nbsp
 </div>
 
