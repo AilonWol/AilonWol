@@ -10,7 +10,7 @@
 Моя цель - внести вклад в успех команды разработки через эффективное тестирование и обеспечение высокого уровня качества продукта.
 
 
-### 📫 Как связаться со мной:
+### 📬 Как связаться со мной:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ailonwol@gmail.com)
   
@@ -40,7 +40,7 @@
 - [Postman Collections](ссылка на листы)
 
 ---
-###  ✏️ Инструменты для разработки:
+### 🧰 Инструменты для разработки:
 
 [![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Jira Badge](https://img.shields.io/badge/-Jira-green?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
@@ -56,7 +56,7 @@
 
 ---
 
-###  ✏️ Работа с баг-трекинговыми системами:
+### ✏️ Работа с баг-трекинговыми системами:
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/jira.png" title="Jira" alt="Jira" width="90" height="40"/>&nbsp
@@ -65,7 +65,7 @@
 
 ---
 
-### ✏️ Работа с системами управления тестированием TMS:
+### ✏ Работа с системами управления тестированием TMS:
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/testrail.png" alt="TestRail" title="TestRail" width="108" height="38"/>&nbsp
