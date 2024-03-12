@@ -40,8 +40,23 @@
 - [Postman Collections](ссылка на листы)
 
 ---
+###  ✏️ Инструменты для разработки:
 
-###  ✏️Работа с баг-трекинговыми системами:
+[![Postman Badge](https://img.shields.io/badge/-Postman-blue?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Jira Badge](https://img.shields.io/badge/-Jira-green?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![TestRail Badge](https://img.shields.io/badge/-TestRail-orange?style=flat&logo=TestRail&logoColor=white)](https://www.gurock.com/testrail/)
+[![Test It Badge](https://img.shields.io/badge/-Test%20It-purple?style=flat&logo=Test%20It&logoColor=white)](https://www.gurock.com/testit/)
+[![SoapUI Badge](https://img.shields.io/badge/-SoapUI-red?style=flat&logo=SoapUI&logoColor=white)](https://www.soapui.org/)
+[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Selenium IDE Badge](https://img.shields.io/badge/-Selenium%20IDE-blue?style=flat&logo=Selenium%20IDE&logoColor=white)](https://www.selenium.dev/selenium-ide/)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![SQL Badge](https://img.shields.io/badge/-SQL-orange?style=flat&logo=SQL&logoColor=white)](https://www.w3schools.com/sql/)
+[![Python Badge](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+[![Xmind Badge](https://img.shields.io/badge/-Xmind-yellow?style=flat&logo=Xmind&logoColor=white)](https://www.xmind.net/)
+
+---
+
+###  ✏️ Работа с баг-трекинговыми системами:
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/jira.png" title="Jira" alt="Jira" width="90" height="40"/>&nbsp
@@ -50,7 +65,7 @@
 
 ---
 
-### ✏️Работа с системами управления тестированием TMS:
+### ✏️ Работа с системами управления тестированием TMS:
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/testrail.png" alt="TestRail" title="TestRail" width="108" height="38"/>&nbsp
