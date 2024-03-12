@@ -40,7 +40,7 @@
 - [Postman Collections](ссылка на листы)
 
 ---
-### 🧰 Инструменты для разработки:
+### 🧰 Инструменты и языки:
 
 [![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Jira Badge](https://img.shields.io/badge/-Jira-green?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
