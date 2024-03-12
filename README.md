@@ -42,17 +42,17 @@
 ---
 ###  ✏️ Инструменты для разработки:
 
-[![Postman Badge](https://img.shields.io/badge/-Postman-blue?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Jira Badge](https://img.shields.io/badge/-Jira-green?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![TestRail Badge](https://img.shields.io/badge/-TestRail-orange?style=flat&logo=TestRail&logoColor=white)](https://www.gurock.com/testrail/)
-[![Test It Badge](https://img.shields.io/badge/-Test%20It-purple?style=flat&logo=Test%20It&logoColor=white)](https://www.gurock.com/testit/)
+[![TestRail Badge](https://img.shields.io/badge/-TestRail-blue?style=flat&logo=TestRail&logoColor=white)](https://www.gurock.com/testrail/)
+[![Test It Badge](https://img.shields.io/badge/-Test%20It-4B0082?style=flat&logo=Test%20It&logoColor=white)](https://www.testit.software)
 [![SoapUI Badge](https://img.shields.io/badge/-SoapUI-red?style=flat&logo=SoapUI&logoColor=white)](https://www.soapui.org/)
-[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-green?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Selenium IDE Badge](https://img.shields.io/badge/-Selenium%20IDE-blue?style=flat&logo=Selenium%20IDE&logoColor=white)](https://www.selenium.dev/selenium-ide/)
+[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-008080?style=flat&logo=PyCharm&logoColor=FFFF00)](https://www.jetbrains.com/pycharm/)
+[![Selenium IDE Badge](https://img.shields.io/badge/-Selenium%20IDE-008000?style=flat&logo=Selenium%20IDE&logoColor=white)](https://www.selenium.dev/selenium-ide/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![SQL Badge](https://img.shields.io/badge/-SQL-orange?style=flat&logo=SQL&logoColor=white)](https://www.w3schools.com/sql/)
-[![Python Badge](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-[![Xmind Badge](https://img.shields.io/badge/-Xmind-yellow?style=flat&logo=Xmind&logoColor=white)](https://www.xmind.net/)
+[![Python Badge](https://img.shields.io/badge/-Python-FFFF00?style=flat&logo=Python&logoColor=306998)](https://www.python.org/)
+[![Xmind Badge](https://img.shields.io/badge/-Xmind-FF0000?style=flat&logo=Xmind&logoColor=white)](https://www.xmind.net/)
 
 ---
 
