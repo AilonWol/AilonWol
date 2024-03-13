@@ -36,8 +36,8 @@
 - [Checklists](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Checklists)
 - [Test-suites and Test-cases](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Test-suites%20and%20Test-cases)
 - [Bug-reports](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Bug-Reports)
-- [SQL Queries](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Postman%20Collections)
-- [Postman Collections](ссылка на листы)
+- [SQL Queries]()
+- [Postman Collections](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Postman%20Collections)
 
 ---
 ### 🧰 Инструменты и языки:
