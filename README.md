@@ -33,10 +33,10 @@
 
 ### 📁 Тестовая документация:
 
-- [Checklists](ссылка на листы)
-- [Test-suites and Test-cases](ссылка на листы)
-- [Bug-reports](ссылка на листы)
-- [SQL Queries](ссылка на листы)
+- [Checklists](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Checklists)
+- [Test-suites and Test-cases](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Test-suites%20and%20Test-cases)
+- [Bug-reports](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Bug-Reports)
+- [SQL Queries](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Postman%20Collections)
 - [Postman Collections](ссылка на листы)
 
 ---
