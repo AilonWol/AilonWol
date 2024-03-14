@@ -45,7 +45,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=white)
 ![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)
-![SoapUI](https://img.shields.io/badge/-SoapUI-red?style=for-the-badge&logo=SoapUI&logoColor=white)
+![SoapUI](https://img.shields.io/badge/-SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
