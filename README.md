@@ -46,12 +46,12 @@
 ![TestRail](https://img.shields.io/badge/-TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=white)
 ![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-red?style=for-the-badge&logo=SoapUI&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-008080?style=for-the-badge&logo=PyCharm&logoColor=FFFF00)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![Selenium IDE](https://img.shields.io/badge/-Selenium%20IDE-008000?style=for-the-badge&logo=Selenium%20IDE&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=SQL&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=Python&logoColor=306998)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)
 
 ---
