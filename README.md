@@ -41,18 +41,18 @@
 
 ---
 ### 🧰 Инструменты и языки:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=white)
+![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)
+![SoapUI](https://img.shields.io/badge/-SoapUI-red?style=for-the-badge&logo=SoapUI&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-008080?style=for-the-badge&logo=PyCharm&logoColor=FFFF00)
 
-[![Postman Badge](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![Jira Badge](https://img.shields.io/badge/-Jira-green?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![TestRail Badge](https://img.shields.io/badge/-TestRail-blue?style=flat&logo=TestRail&logoColor=white)](https://www.gurock.com/testrail/)
-[![Test It Badge](https://img.shields.io/badge/-Test%20It-4B0082?style=flat&logo=Test%20It&logoColor=white)](https://www.testit.software)
-[![SoapUI Badge](https://img.shields.io/badge/-SoapUI-red?style=flat&logo=SoapUI&logoColor=white)](https://www.soapui.org/)
-[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-008080?style=flat&logo=PyCharm&logoColor=FFFF00)](https://www.jetbrains.com/pycharm/)
-[![Selenium IDE Badge](https://img.shields.io/badge/-Selenium%20IDE-008000?style=flat&logo=Selenium%20IDE&logoColor=white)](https://www.selenium.dev/selenium-ide/)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![SQL Badge](https://img.shields.io/badge/-SQL-orange?style=flat&logo=SQL&logoColor=white)](https://www.w3schools.com/sql/)
-[![Python Badge](https://img.shields.io/badge/-Python-FFFF00?style=flat&logo=Python&logoColor=306998)](https://www.python.org/)
-[![Xmind Badge](https://img.shields.io/badge/-Xmind-FF0000?style=flat&logo=Xmind&logoColor=white)](https://www.xmind.net/)
+![Selenium IDE](https://img.shields.io/badge/-Selenium%20IDE-008000?style=for-the-badge&logo=Selenium%20IDE&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=SQL&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=Python&logoColor=306998)
+![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)
 
 ---
 
