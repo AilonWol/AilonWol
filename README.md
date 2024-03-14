@@ -43,14 +43,14 @@
 ### 🧰 Инструменты и языки:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/-TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-0AC18E?style=for-the-badge&logo=TestRail&logoColor=white)
 ![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=SQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-2CA5E0?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-60B5CC?style=for-the-badge&logo=SQL&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)
 
