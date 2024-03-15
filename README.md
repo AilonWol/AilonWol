@@ -32,7 +32,7 @@
 ---
 
 ### 📁 Тестовая документация:
-
+- [Test plan](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Test-plan)
 - [Checklists](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Checklists)
 - [Test-suites and Test-cases](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Test-suites%20and%20Test-cases)
 - [Bug-reports](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Bug-Reports)
