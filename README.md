@@ -42,10 +42,11 @@
 ---
 
 ### ✍️ Дополнительно:
-- [Autotests]()
-- [xMaind]()
+- [Autotests](https://github.com/AilonWol/Work/tree/main/Testing/Additionally/Autotests)
+- [xMaind](https://github.com/AilonWol/Work/tree/main/Testing/Additionally/xMaind)
 
 ---
+
 ### 🧰 Инструменты и языки:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
