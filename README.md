@@ -40,6 +40,12 @@
 - [Postman Collections](https://github.com/AilonWol/Work/tree/main/Testing/Documentation/Postman%20Collections)
 
 ---
+
+### ✍️ Дополнительно:
+- [Autotests]()
+- [xMaind]()
+
+---
 ### 🧰 Инструменты и языки:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
