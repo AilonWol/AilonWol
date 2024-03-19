@@ -56,7 +56,7 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm)
 
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
-[![MySQL](https://img.shields.io/badge/-MySQL-2CA5E0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-E6007A?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
 [![SQL](https://img.shields.io/badge/-SQL-60B5CC?style=for-the-badge&logo=SQL&logoColor=white)]()
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)](https://xmind.app)
