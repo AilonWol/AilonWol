@@ -95,7 +95,7 @@
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/mysql.png" title="MySQL" alt="MySQL" width="90" height="40"/>&nbsp
-  <img src="" title="SQL" alt="PostSQL" width="115" height="40"/>&nbsp
+  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/postgreSQL.png" title="SQL" alt="PostSQL" width="115" height="40"/>&nbsp
 </div>
 
 ---
