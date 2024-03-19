@@ -86,7 +86,7 @@
 
 <div>
   <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/postman.png" title="Postman" alt="Postman" width="100" height="39"/>&nbsp
-  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/soupui.png" title="SoapUI" alt="SoapUI" width="100" height="40"/>&nbsp
+  <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/soupui.png" title="SoapUI" alt="SoapUI" width="110" height="40"/>&nbsp
 </div>
 
 ---
