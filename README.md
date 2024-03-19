@@ -46,20 +46,22 @@
 - [xMaind](https://github.com/AilonWol/Work/tree/main/Testing/Additionally/xMaind)
 
 ---
-
+[![]()]()
 ### 🧰 Инструменты и языки:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/-TestRail-0AC18E?style=for-the-badge&logo=TestRail&logoColor=white)
-![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)
-![SoapUI](https://img.shields.io/badge/-SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-2CA5E0?style=for-the-badge&logo=MySQL&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-60B5CC?style=for-the-badge&logo=SQL&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![TestRail](https://img.shields.io/badge/-TestRail-0AC18E?style=for-the-badge&logo=TestRail&logoColor=white)](https://www.testrail.com)
+[![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)](https://testit.software)
+[![SoapUI](https://img.shields.io/badge/-SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white)](https://www.soapui.org)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm)
+
+
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![MySQL](https://img.shields.io/badge/-MySQL-2CA5E0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
+[![SQL](https://img.shields.io/badge/-SQL-60B5CC?style=for-the-badge&logo=SQL&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)](https://xmind.app)
 
 ---
 
