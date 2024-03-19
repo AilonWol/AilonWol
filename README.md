@@ -13,6 +13,7 @@
 ### 📬 Как связаться со мной:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailonwol@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=89158245787) 
   
 ---
@@ -20,9 +21,7 @@
 ### 📱 Социальные сети:
 
   <div id="badges">
-    <a href="https://ссылка" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a>
-    <a href="https://t.me/ailon_wol" target="_blank">
+      <a href="https://t.me/ailon_wol" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></a>
      <a href="https://vk.ru/id818817322" target="_blank">
       <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/vk.png" width="40" height="40" alt="vk" /></a>
