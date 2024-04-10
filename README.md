@@ -23,7 +23,7 @@
   <div id="badges">
       <a href="https://t.me/ailon_wol" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></a>
-     <a href="https://vk.ru/id818817322" target="_blank">
+     <a href="https://vk.com/ailonwol" target="_blank">
       <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/vk.png" width="40" height="40" alt="vk" /></a>
      <a href="Ссылка на Twitter" target="_blank">
       <img src="https://github.com/AilonWol/AilonWol/blob/main/%D0%A0%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/twitter.png" width="40" height="40" alt="X" /></a>
