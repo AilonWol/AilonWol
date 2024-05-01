@@ -54,12 +54,15 @@
 [![Test It](https://img.shields.io/badge/-Test%20It-4B0082?style=for-the-badge&logo=Test%20It&logoColor=white)](https://testit.software)
 [![SoapUI](https://img.shields.io/badge/-SoapUI-yellow?style=for-the-badge&logo=SoapUI&logoColor=white)](https://www.soapui.org)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm)
+[![Miro](https://img.shields.io/badge/Miro-FFEC00?style=for-the-badge&logo=miro&logoColor=black)](https://miro.com/)
 
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
 [![MySQL](https://img.shields.io/badge/-MySQL-E6007A?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
 [![SQL](https://img.shields.io/badge/-SQL-60B5CC?style=for-the-badge&logo=SQL&logoColor=white)]()
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![Xmind](https://img.shields.io/badge/-Xmind-FF0000?style=for-the-badge&logo=Xmind&logoColor=white)](https://xmind.app)
+[![Charles](https://img.shields.io/badge/-Charles-008000?style=for-the-badge&logo=Charles&logoColor=white)](https://www.charlesproxy.com/)
+[![jMeter](https://img.shields.io/badge/-jMeter-8766A9?style=for-the-badge&logo=jMeter&logoColor=white)](https://jmeter.apache.org/)
 [![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/?hl=en)
 
 ---
